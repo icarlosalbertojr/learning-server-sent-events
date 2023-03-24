@@ -1,4 +1,4 @@
-package com.icarlosalbertojr.springserversentevents.resources;
+package com.icarlosalbertojr.springserversentevents.web;
 
 import com.icarlosalbertojr.springserversentevents.event.EventName;
 import com.icarlosalbertojr.springserversentevents.event.EventSource;

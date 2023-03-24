@@ -1,4 +1,4 @@
-package com.icarlosalbertojr.springserversentevents.resources;
+package com.icarlosalbertojr.springserversentevents.web;
 
 import lombok.Data;
 
